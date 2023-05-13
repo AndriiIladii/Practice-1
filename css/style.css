@@ -130,6 +130,7 @@ h2 {
 
 .header_btn {
   border: 2px solid var(--orange);
+  color: var(--orange);
   border-radius: 10px;
   padding: 12px 27px;
   text-transform: uppercase;
