@@ -452,3 +452,7 @@ button.accordion.is-open {
   line-height: 50px;
   color: #000;
 }
+
+label input {
+  display: none;
+}
